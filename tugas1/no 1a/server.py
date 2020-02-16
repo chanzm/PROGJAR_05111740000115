@@ -23,13 +23,12 @@ while True:
     while True:
         mtr = connection.recv(256)
         amount_received += len(mtr)
-        # print("receiving file....")
-        #print(f"{data}")
+    
         if mtr:
             data_terima.write(mtr)
         else: break
 
     data_terima.close()
-    print('Successfully get the file')
+    print('File diterima')
     # Clean up the connection
     connection.close()

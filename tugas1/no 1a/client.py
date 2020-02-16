@@ -16,9 +16,7 @@ try:
         if not mtr:
             break
         sock.send(mtr)
-
     print("file terkirim")
-    
     data_kirim.close()
 
 finally:

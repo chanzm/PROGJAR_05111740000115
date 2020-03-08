@@ -36,5 +36,5 @@ if __name__=='__main__':
     g2 = threading.Thread(target=download_gambar, args=(url2,))
     multi_threads.append(g2)
 
-for i in multi_threads:
-    i.start()
+    for i in multi_threads:
+        i.start()

@@ -26,7 +26,7 @@ command (+) nama file (+) ekstensi file
     - Akan menampilkan semua file pada server, Jika gaada file maka output kosong
 <br><br>
 
-<strong>Respond</strong>
+<strong>Respond</strong> <br>
 <ul>- SERVER</ul>
 <img src="https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_server.jpg">
 <br><ul>- CLIENT</ul>

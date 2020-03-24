@@ -10,7 +10,7 @@ command (+) nama file (+) ekstensi file
 3. List File (Melihat file dalam bentuk JSON)
 <br><br>
 
-<strong>Cara melakukan Request</strong>
+<strong>Cara melakukan Request</strong> <br>
 1.Jalankan 'server_person.py' <br>
 2.Jalankan client <br>
   a. Client Upload <br>
@@ -28,8 +28,10 @@ command (+) nama file (+) ekstensi file
 
 <strong>Respond</strong>
 <ul>SERVER</ul>
-![alt text](https://github.com/chanzm/PROGJAR_05111740000115/edit/master/tugas4/ss/run_server.jpg)
+<img src:"https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_server.jpg">
+![alt text](https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_server.jpg)
 <br><ul>CLIENT</ul>
-![alt text](https://github.com/chanzm/PROGJAR_05111740000115/edit/master/tugas4/ss/run_client.jpg)
+<img src:"https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_client.jpg">
+![alt text](https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_client.jpg)
 
 <br><br>

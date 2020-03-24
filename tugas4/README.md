@@ -28,7 +28,8 @@ command (+) nama file (+) ekstensi file
 
 <strong>Respond</strong>
 <ul>SERVER</ul>
-<ul>CLIENT UPLOAD</ul>
-<ul>CLIENT DOWNLOAD</ul>
-<ul>CLIENT LIST</ul>
+![alt text](https://github.com/chanzm/PROGJAR_05111740000115/edit/master/tugas4/ss/run_server.jpg)
+<br><ul>CLIENT</ul>
+![alt text](https://github.com/chanzm/PROGJAR_05111740000115/edit/master/tugas4/ss/run_client.jpg)
+
 <br><br>

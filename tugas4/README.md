@@ -28,10 +28,10 @@ command (+) nama file (+) ekstensi file
 
 <strong>Respond</strong>
 <ul>SERVER</ul>
-<img src:"https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_server.jpg">
+<img src="https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_server.jpg">
 ![alt text](https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_server.jpg)
 <br><ul>CLIENT</ul>
-<img src:"https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_client.jpg">
+<img src="https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_client.jpg">
 ![alt text](https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_client.jpg)
 
 <br><br>

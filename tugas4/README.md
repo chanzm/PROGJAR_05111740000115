@@ -4,8 +4,7 @@
 command (+) nama file (+) ekstensi file
 <br><br>
 
-<strong>Daftar Fitur</strong> <br>
-1. Upload File (Create/Meletakkan File) <br>
+<strong>Daftar Fitur</strong> <br>1. Upload File (Create/Meletakkan File) <br>
 2. Download File (Get/Mengambil File) <br>
 3. List File (Melihat file dalam bentuk JSON)
 <br><br>
@@ -26,7 +25,7 @@ command (+) nama file (+) ekstensi file
     - Akan menampilkan semua file pada server, Jika gaada file maka output kosong
 <br><br>
 
-<strong>Respond</strong> <br>
+<strong>Respond</strong>
 <ul>- SERVER</ul>
 <img src="https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_server.jpg">
 <br><ul>- CLIENT</ul>

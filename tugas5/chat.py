@@ -99,7 +99,7 @@ class Chat:
 		return {'status': 'OK', 'messages': msgs}
 		
 	def aktif(self):
-		token = usr(self.sessions.keys())
+		token = list(self.sessions.keys())
 		aktif = ""
 		for t in token:
 			aktif = aktif + self.sessions[t]['username']+ ", "

@@ -29,7 +29,7 @@ class ChatClient:
             elif (command=='inbox'):
                 return self.inbox()
             elif (command=='aktif'):
-                return self.usr()
+                return self.list()
             elif (command=='logout'):
                 return self.logout()
             else:
@@ -78,7 +78,7 @@ class ChatClient:
             return "{}" . format(json.dumps(result['messages']))
         else:
             return "Error, {}" . format(result['message'])
-    def usr(self):
+    def list(self):
         if (self.tokenid==""):
             return "Error, not authorized"
         string="aktif {} \r\n" . format(self.tokenid)

@@ -4,13 +4,12 @@
 command (+) nama file (+) ekstensi file
 <br><br>
 
-<strong>Daftar Fitur</strong> <br>
-1. Upload File (Create/Meletakkan File) <br>
+<strong>Daftar Fitur</strong> <br>1. Upload File (Create/Meletakkan File) <br>
 2. Download File (Get/Mengambil File) <br>
 3. List File (Melihat file dalam bentuk JSON)
 <br><br>
 
-<strong>Cara melakukan Request</strong>
+<strong>Cara melakukan Request</strong> <br>
 1.Jalankan 'server_person.py' <br>
 2.Jalankan client <br>
   a. Client Upload <br>
@@ -27,9 +26,9 @@ command (+) nama file (+) ekstensi file
 <br><br>
 
 <strong>Respond</strong>
-<ul>SERVER</ul>
-![alt text](https://github.com/chanzm/PROGJAR_05111740000115/edit/master/tugas4/ss/run_server.jpg)
-<br><ul>CLIENT</ul>
-![alt text](https://github.com/chanzm/PROGJAR_05111740000115/edit/master/tugas4/ss/run_client.jpg)
+<ul>- SERVER</ul>
+<img src="https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_server.jpg">
+<br><ul>- CLIENT</ul>
+<img src="https://github.com/chanzm/PROGJAR_05111740000115/tree/master/tugas4/ss/run_client.jpg">
 
 <br><br>

@@ -1,4 +1,4 @@
-<strong>#TUGAS 6</strong> <br>
+<strong>TUGAS 6</strong> <br>
 
 Running <br>
 
